@@ -29,14 +29,10 @@ http://py.fatcat.icu:8880/hls/3/index.m3u8
 http://py.fatcat.icu:8880/hls/4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="南方卫视" tvg-logo="" group-title="广东",南方卫视
 http://py.fatcat.icu:8880/hls/8/index.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="海南",海南卫视
+#EXTINF:-1 tvg-id="37" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="海南",海南卫视
 http://py.fatcat.icu:8880/hls/99/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文台
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文台(备)
-http://113.64.147.3:808/hls/37/index.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文台(备1)
-http://124.238.99.44:808/hls/348/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯台
 http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯台(备)
@@ -49,7 +45,5 @@ http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
 https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
 http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港(备)
-http://113.64.147.3:808/hls/38/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰电影" tvg-logo="" group-title="港澳台",凤凰电影
 http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
