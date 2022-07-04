@@ -29,8 +29,6 @@ http://py.fatcat.icu:8880/hls/3/index.m3u8
 http://py.fatcat.icu:8880/hls/4/index.m3u8
 #EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="https://i.imgur.com/dmQHbXr.png" group-title="广东",南方卫视
 http://py.fatcat.icu:8880/hls/8/index.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="海南",海南卫视
-http://py.fatcat.icu:8880/hls/99/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文台
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯台
