@@ -39,3 +39,9 @@ https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯台(备3)
 https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB 翡翠台
+https://cdn.hklive.tv/hls/81/index.m3u8
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",Viu TV
+https://cdn.hklive.tv/hls/99/index.m3u8
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",Viu TV6
+https://cdn.hklive.tv/hls/96/index.m3u8
