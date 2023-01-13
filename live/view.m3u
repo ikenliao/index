@@ -66,6 +66,8 @@ http://9.zhxinda.xyz/gdtv.php?pk=1197
 http://120.237.252.67:8800/hls/8/index.m3u8
 #EXTINF:-1 tvg-id="60" tvg-name="大湾区卫视（备2）" tvg-logo="https://i.imgur.com/dmQHbXr.png" group-title="广东",大湾区卫视（备2）
 http://111.20.33.70/TVOD/88888893/224/3221226218/index.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="大湾区卫视（备3）" tvg-logo="https://i.imgur.com/dmQHbXr.png" group-title="广东",大湾区卫视（备3）
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://i.imgur.com/Glq13h9.png" group-title="广东",广州新闻
 http://9.zhxinda.xyz/gz.php?id=xinwen
 #EXTINF:-1 tvg-name="广州新闻（备）" tvg-logo="https://i.imgur.com/Glq13h9.png" group-title="广东",广州新闻（备）
