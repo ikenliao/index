@@ -126,10 +126,22 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
 http://61.143.45.150:9901/tsfile/live/0018_1.m3u8
 #EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="广东", 广东珠江
 http://tv.kenliao.com/gdtv.php?id=gdzj
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="广东", 广东体育
+http://tv.kenliao.com/gdtv.?id=gdty
+#EXTINF:-1 tvg-id="6016" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="广东", 广东新闻
+http://tv.kenliao.com/gdtv.?id=gdxw
+#EXTINF:-1 tvg-id="6014" tvg-name="广东公共" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV4.png" group-title="广东", 广东公共
+http://tv.kenliao.com/gdtv.?id=gdgg
 #EXTINF:-1 tvg-id="" tvg-name="大湾区卫视" tvg-logo="" group-title="广东",大湾区卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="大湾区卫视" tvg-logo="https://i.imgur.com/dmQHbXr.png" group-title="广东",大湾区卫视
+http://tv.kenliao.com/gdtv.?id=nfws
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://i.imgur.com/Glq13h9.png" group-title="广东",广州新闻
 https://justsometime.gztv.com/sec/xinwen.m3u8
+#EXTINF:-1 tvg-name="湛江综合" tvg-logo="https://i.imgur.com/Glq13h9.png" group-title="广东",湛江综合
+http://tv.kenliao.com/zhanjiang.?id=zjzh
+#EXTINF:-1 tvg-name="湛江公共" tvg-logo="https://i.imgur.com/Glq13h9.png" group-title="广东",湛江公共
+http://tv.kenliao.com/zhanjiang.?id=zjgg
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文台（官）
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文台（备）
