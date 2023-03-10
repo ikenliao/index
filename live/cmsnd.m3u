@@ -130,7 +130,7 @@ http://tv.kenliao.com/gdtv.php?id=gdzj
 http://tv.kenliao.com/gdtv.php?id=gdty
 #EXTINF:-1 tvg-id="6016" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="广东", 广东新闻
 http://tv.kenliao.com/gdtv.php?id=gdxw
-#EXTINF:-1 tvg-id="6014" tvg-name="广东公共" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV4.png" group-title="广东", 广东公共
+#EXTINF:-1 tvg-id="6014" tvg-name="广东民生" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV4.png" group-title="广东", 广东民生
 http://tv.kenliao.com/gdtv.php?id=gdgg
 #EXTINF:-1 tvg-id="" tvg-name="大湾区卫视" tvg-logo="" group-title="广东",大湾区卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
