@@ -138,9 +138,9 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 http://tv.kenliao.com/gdtv.php?id=nfws
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://i.imgur.com/Glq13h9.png" group-title="广东",广州新闻
 https://justsometime.gztv.com/sec/xinwen.m3u8
-#EXTINF:-1 tvg-name="湛江综合" tvg-logo="https://gitee.com/ikenliao/live/raw/master/logo/%E6%B9%9B%E6%B1%9F%E5%8F%B0.jpeg" group-title="广东",湛江综合
+#EXTINF:-1 tvg-name="湛江综合" tvg-logo="https://gitee.com/ikenliao/live/raw/master/logo/zjt.png" group-title="广东",湛江综合
 http://tv.kenliao.com/zhanjiang.php?id=zjzh
-#EXTINF:-1 tvg-name="湛江公共" tvg-logo="https://gitee.com/ikenliao/live/raw/master/logo/%E6%B9%9B%E6%B1%9F%E5%8F%B0.jpeg" group-title="广东",湛江公共
+#EXTINF:-1 tvg-name="湛江公共" tvg-logo="https://gitee.com/ikenliao/live/raw/master/logo/zjt.png" group-title="广东",湛江公共
 http://tv.kenliao.com/zhanjiang.php?id=zjgg
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文台（官）
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
