@@ -93,11 +93,11 @@ http://192.168.100.1:5678/zhanjiang.php?id=zjgg
 #EXTINF:-1 tvg-name="湛江公共PHP远程" tvg-logo="https://gitee.com/ikenliao/live/raw/master/logo/zjt.png" group-title="广东",湛江公共PHP远程
 http://tv.kenliao.com/zhanjiang.php?id=zjgg
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文台（官）
-http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+rtmp://playtv-live.ifeng.com/live/06OLEGEGM4G
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文台
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯台（官）
-http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+rtmp://playtv-live.ifeng.com/live/06OLEEWQKN4
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯台
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="無線新聞台1080P" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",無線新聞台1080P
