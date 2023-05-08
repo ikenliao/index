@@ -102,6 +102,10 @@ http://hwrr.jx.chinamobile.com:8080/ysten-businessmobile/live/fhchinese/1.m3u8
 http://192.168.100.1:5678/ifeng.php?id=phtvChinese
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文PHP远程" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文台PHP远程
 http://tv.kenliao.com/ifeng.php?id=phtvChinese
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文PHP-HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文台PHP-HD
+http://192.168.100.1:5678/ifeng-HD.php?id=fhzw
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文PHP远程-HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文台PHP远程-HD
+http://tv.kenliao.com/ifeng-HD.php?id=fhzw
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯台（官）
 rtmp://playtv-live.ifeng.com/live/06OLEEWQKN4
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯台
@@ -112,6 +116,10 @@ http://hwrr.jx.chinamobile.com:8080/ysten-businessmobile/live/fhzixun/1.m3u8
 http://192.168.100.1:5678/ifeng.php?id=phtvNews
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯PHP远程" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯台PHP远程
 http://tv.kenliao.com/ifeng.php?id=phtvNews
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯PHP-HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯台PHP-HD
+http://192.168.100.1:5678/ifeng-HD.php?id=fhzx
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯PHP远程-HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯台PHP远程-HD
+http://tv.kenliao.com/ifeng-HD.php?id=fhzx
 #EXTINF:-1 tvg-id="130" tvg-name="無線新聞台1080P" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",無線新聞台1080P
 http://5612hu1210.zicp.fun:8122/news.php?id=401
 #EXTINF:-1 tvg-id="130" tvg-name="無線新聞台1080P" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",無線新聞台1080P
