@@ -136,8 +136,12 @@ https://justsometime.gztv.com/sec/xinwen.m3u8
 https://justsometime.gztv.com/sec/zhonghe.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文台
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文台
+http://r.jdshipin.com/cCCzW
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯台
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯台
+http://r.jdshipin.com/0Rp07
 #EXTINF:-1 tvg-id="130" tvg-name="無線新聞台1080P" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",無線新聞台1080P
 http://live.cooltv.top/tv/tvb.php?id=0&hq
 #EXTINF:-1 tvg-id="130" tvg-name="無線新聞台720P" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",無線新聞台720P
@@ -155,4 +159,3 @@ https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVB-无线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港澳台",TVB-无线新闻台
 https://tvp22.sky4k.top/index1.php
 #EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港澳台",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
