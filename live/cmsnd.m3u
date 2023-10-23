@@ -119,43 +119,25 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实人文
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
 #EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="广东", 广东珠江
-http://61.143.45.150:9901/tsfile/live/0018_1.m3u8
-#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="广东", 广东珠江
-http://tv.kenliao.com/gdtv.php?id=gdzj
+https://php.17186.eu.org/gdtv/gdzj.m3u8
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道（备）" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="广东", 广东珠江（备）
+https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 #EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="广东", 广东体育
-http://tv.kenliao.com/gdtv.php?id=gdty
+https://php.17186.eu.org/gdtv/gdty.m3u8
 #EXTINF:-1 tvg-id="6016" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="广东", 广东新闻
-http://tv.kenliao.com/gdtv.php?id=gdxw
+https://php.17186.eu.org/gdtv/xwpd.m3u8
 #EXTINF:-1 tvg-id="6014" tvg-name="广东民生" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV4.png" group-title="广东", 广东民生
-http://tv.kenliao.com/gdtv.php?id=gdgg
-#EXTINF:-1 tvg-id="" tvg-name="大湾区卫视" tvg-logo="" group-title="广东",大湾区卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
+https://php.17186.eu.org/gdtv/gdgg.m3u8
 #EXTINF:-1 tvg-id="60" tvg-name="大湾区卫视" tvg-logo="https://i.imgur.com/dmQHbXr.png" group-title="广东",大湾区卫视
-http://tv.kenliao.com/gdtv.php?id=nfws
+https://php.17186.eu.org/gdtv/nfws.m3u8
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://i.imgur.com/Glq13h9.png" group-title="广东",广州新闻
 https://justsometime.gztv.com/sec/xinwen.m3u8
-#EXTINF:-1 tvg-name="湛江综合" tvg-logo="https://gitee.com/ikenliao/live/raw/master/logo/zjt.png" group-title="广东",湛江综合
-http://tv.kenliao.com/zhanjiang.php?id=zjzh
-#EXTINF:-1 tvg-name="湛江公共" tvg-logo="https://gitee.com/ikenliao/live/raw/master/logo/zjt.png" group-title="广东",湛江公共
-http://tv.kenliao.com/zhanjiang.php?id=zjgg
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文台（官）
-rtmp://playtv-live.ifeng.com/live/06OLEGEGM4G
+#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://i.imgur.com/Glq13h9.png" group-title="广东",广州综合
+https://justsometime.gztv.com/sec/zhonghe.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文台
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文PHP" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文台PHP
-http://tv.kenliao.com/ifeng.php?id=phtvChinese
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文PHP-HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文台PHP-HD
-http://tv.kenliao.com/ifeng-HD.php?id=fhzw
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯台（官）
-rtmp://playtv-live.ifeng.com/live/06OLEEWQKN4
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯台
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯PHP" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯台PHP
-http://tv.kenliao.com/ifeng.php?id=phtvNews
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯PHP-HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯台PHP-HD
-http://tv.kenliao.com/ifeng-HD.php?id=fhzx
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯PHP" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯台PHP
-http://tv.kenliao.com/ifeng.php?id=phtvNews
 #EXTINF:-1 tvg-id="130" tvg-name="無線新聞台1080P" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",無線新聞台1080P
 http://live.cooltv.top/tv/tvb.php?id=0&hq
 #EXTINF:-1 tvg-id="130" tvg-name="無線新聞台720P" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",無線新聞台720P
@@ -164,3 +146,13 @@ http://live.cooltv.top/tv/tvb.php?id=0
 http://live.cooltv.top/tv/tvb.php?id=2&hq
 #EXTINF:-1 tvg-id="133" tvg-name="無線財經·體育·資訊台1080P" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",無線財經·體育·資訊台1080P
 http://live.cooltv.top/tv/tvb.php?id=2
+#EXTINF:-1 tvg-id="" tvg-name="RTHK-31" tvg-logo="" group-title="港澳台",RTHK-31
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTHK-32" tvg-logo="" group-title="港澳台",RTHK-32
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HOY-资讯台" tvg-logo="" group-title="港澳台",HOY-资讯台
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVB-无线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港澳台",TVB-无线新闻台
+https://tvp22.sky4k.top/index1.php
+#EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港澳台",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
